@@ -1,4 +1,9 @@
-# IntPrivkeyConverter
+> **Disclaimer:**  
+> This project is intended solely for educational and research purposes.  
+> It demonstrates how key and address conversions work in Bitcoin using Elliptic Curve Cryptography (ECC), specifically the secp256k1 curve.  
+> I do **not condone or encourage any illegal activity**, and I am **not responsible for how anyone chooses to use this code or knowledge.**
+
+> # IntPrivkeyConverter
 IntPrivkeyConverter - An Integer to Bitcoin Private Key Converter
 
 ## Install
